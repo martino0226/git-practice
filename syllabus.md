@@ -2,7 +2,7 @@
 ## Course Information 
 - Monday & Wednesday 4:10-5:25 p.m., NVC9-210
 - Office: Vertical Campus 9-290L
-- Office Hours: Thursday 9-12 a.m. (and please email first)
+- Office Hours: Thursday 10-12 p.m. (and please email me first!)
 - E-mail: *Junghoon.Park@baruch.cuny.edu*
 
 ## Course Overview 
@@ -15,6 +15,9 @@ At the end of this semester, students are expected to be able to:
 - Use different environmental sustainability tools (reporting, environmental management systems, and standards, etc.).
 - Evaluate the veracity of a company’s sustainability claims.
 - Conduct sustainability consulting research with a real “client”.
+
+## Book
+- Business & Society 
 
 ## Grade Crieterion 
 - Pass: Above 80 (>=80)
